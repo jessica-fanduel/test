@@ -1,0 +1,190 @@
+{
+"t": {
+"tid": 1610612744,
+"pl": [
+{
+"fn": "Leandro",
+"ln": "Barbosa",
+"pid": 2571,
+"num": "19",
+"pos": "G",
+"dob": "1982-11-28",
+"ht": "6-3",
+"wt": 194,
+"y": 11,
+"hcc": "Palmeiras/Brazil"
+},
+{
+"fn": "David",
+"ln": "Lee",
+"pid": 101135,
+"num": "10",
+"pos": "F-C",
+"dob": "1983-04-29",
+"ht": "6-9",
+"wt": 245,
+"y": 9,
+"hcc": "Florida/USA"
+},
+{
+"fn": "Harrison",
+"ln": "Barnes",
+"pid": 203084,
+"num": "40",
+"pos": "F",
+"dob": "1992-05-30",
+"ht": "6-8",
+"wt": 225,
+"y": 2,
+"hcc": "North Carolina/USA"
+},
+{
+"fn": "Festus",
+"ln": "Ezeli",
+"pid": 203105,
+"num": "31",
+"pos": "C",
+"dob": "1989-10-21",
+"ht": "6-11",
+"wt": 265,
+"y": 2,
+"hcc": "Vanderbilt/Nigeria"
+},
+{
+"fn": "Draymond",
+"ln": "Green",
+"pid": 203110,
+"num": "23",
+"pos": "F",
+"dob": "1990-03-04",
+"ht": "6-7",
+"wt": 230,
+"y": 2,
+"hcc": "Michigan State/USA"
+},
+{
+"fn": "Brandon",
+"ln": "Rush",
+"pid": 201575,
+"num": "4",
+"pos": "G-F",
+"dob": "1985-07-07",
+"ht": "6-6",
+"wt": 220,
+"y": 6,
+"hcc": "Kansas/USA"
+},
+{
+"fn": "Marreese",
+"ln": "Speights",
+"pid": 201578,
+"num": "5",
+"pos": "C-F",
+"dob": "1987-08-04",
+"ht": "6-10",
+"wt": 255,
+"y": 6,
+"hcc": "Florida/USA"
+},
+{
+"fn": "Ognjen",
+"ln": "Kuzmic",
+"pid": 203136,
+"num": "1",
+"pos": "C",
+"dob": "1990-05-16",
+"ht": "7-0",
+"wt": 260,
+"y": 1,
+"hcc": "FIATC Joventut (Spain)/Bosnia & Herzegovina"
+},
+{
+"fn": "Shaun",
+"ln": "Livingston",
+"pid": 2733,
+"num": "34",
+"pos": "G",
+"dob": "1985-09-11",
+"ht": "6-7",
+"wt": 192,
+"y": 9,
+"hcc": "Peoria Central HS (IL)/USA"
+},
+{
+"fn": "James Michael",
+"ln": "McAdoo",
+"pid": 203949,
+"num": "20",
+"pos": "F",
+"dob": "1993-01-04",
+"ht": "6-9",
+"wt": 230,
+"y": 0,
+"hcc": "North Carolina/USA"
+},
+{
+"fn": "Andre",
+"ln": "Iguodala",
+"pid": 2738,
+"num": "9",
+"pos": "G-F",
+"dob": "1984-01-28",
+"ht": "6-6",
+"wt": 215,
+"y": 10,
+"hcc": "Arizona/USA"
+},
+{
+"fn": "Justin",
+"ln": "Holiday",
+"pid": 203200,
+"num": "7",
+"pos": "G",
+"dob": "1989-04-05",
+"ht": "6-6",
+"wt": 185,
+"y": 1,
+"hcc": "Washington/USA"
+},
+{
+"fn": "Klay",
+"ln": "Thompson",
+"pid": 202691,
+"num": "11",
+"pos": "G",
+"dob": "1990-02-08",
+"ht": "6-7",
+"wt": 215,
+"y": 3,
+"hcc": "Washington State/USA"
+},
+{
+"fn": "Stephen",
+"ln": "Curry",
+"pid": 201939,
+"num": "30",
+"pos": "G",
+"dob": "1988-03-14",
+"ht": "6-3",
+"wt": 190,
+"y": 5,
+"hcc": "Davidson/USA"
+},
+{
+"fn": "Andrew",
+"ln": "Bogut",
+"pid": 101106,
+"num": "12",
+"pos": "C",
+"dob": "1984-11-28",
+"ht": "7-0",
+"wt": 260,
+"y": 9,
+"hcc": "Utah/Australia"
+}
+],
+"ta": "GSW",
+"tn": "Warriors",
+"tc": "Golden State"
+}
+}
