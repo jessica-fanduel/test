@@ -40,56 +40,6 @@
             "teams": [
                 {
                     "alias": "GB",
-                    "statistics": {
-                        "kickoffs": {
-                            "kickoffs": 4,
-                            "inside_20": 1,
-                            "out_of_bounds": 0,
-                            "yards": 251,
-                            "touchbacks": 1,
-                            "endzone": 1,
-                            "return_yards": 78
-                        },
-                        "field_goals": {
-                            "made": 2,
-                            "attempts": 2,
-                            "avg_yards": 29,
-                            "longest": 34,
-                            "yards": 58,
-                            "blocked": 0
-                        },
-                        "extra_points": {
-                            "attempts": 2,
-                            "made": 2,
-                            "blocked": 0
-                        },
-                        "games_started": 0,
-                        "defense": {
-                            "misc_assists": 0,
-                            "sp_tackles": 1,
-                            "sp_fumble_recoveries": 0,
-                            "tloss": 0,
-                            "interceptions": 0,
-                            "sp_assists": 0,
-                            "fumble_recoveries": 0,
-                            "safeties": 0,
-                            "combined": 0,
-                            "sp_blocks": 0,
-                            "misc_forced_fumbles": 0,
-                            "sp_forced_fumbles": 0,
-                            "qb_hits": 0,
-                            "sack_yards": 0,
-                            "assists": 0,
-                            "tloss_yards": 0,
-                            "sacks": 0,
-                            "forced_fumbles": 0,
-                            "tackles": 0,
-                            "misc_tackles": 0,
-                            "misc_fumble_recoveries": 0,
-                            "passes_defended": 0
-                        },
-                        "games_played": 1
-                    },
                     "name": "Packers",
                     "market": "Green Bay",
                     "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"

@@ -7,12 +7,6 @@
     "id": "e0856548-6fd5-4f83-9aa0-91f1bf4cbbd8",
     "first_name": "Mason",
     "draft": {
-        "team": {
-            "alias": "GB",
-            "name": "Packers",
-            "market": "Green Bay",
-            "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
-        },
         "number": 193,
         "round": 6,
         "year": 2007

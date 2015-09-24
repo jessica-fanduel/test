@@ -1,0 +1,51 @@
+{
+    "last_name": "Crosby",
+    "weight": 207,
+    "height": 73,
+    "preferred_name": "Mason",
+    "college": "Colorado",
+    "id": "e0856548-6fd5-4f83-9aa0-91f1bf4cbbd8",
+    "first_name": "Mason",
+    "draft": {
+        "team": {
+            "alias": "GB",
+            "name": "Packers",
+            "market": "Green Bay",
+            "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
+        },
+        "number": 193,
+        "round": 6,
+        "year": 2007
+    },
+    "high_school": "Georgetown (TX)",
+    "status": "A01",
+    "college_conf": "Big Twelve Conference",
+    "references": [
+        {
+            "origin": "nflx",
+            "id": "32386"
+        },
+        {
+            "origin": "gsis",
+            "id": "00-0025580"
+        },
+        {
+            "origin": "elias",
+            "id": "CRO369933"
+        }
+    ],
+    "position": "K",
+    "rookie_year": 2007,
+    "name": "Mason Crosby",
+    "abbr_name": "M.Crosby",
+    "_comment": "Generation started @ 2015-09-22 18:47:07 +0000 ended @ 2015-09-22 18:47:07 +0000",
+    "team": {
+        "alias": "GB",
+        "name": "Packers",
+        "market": "Green Bay",
+        "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
+    },
+    "birth_date": "1984-09-03",
+    "birth_place": "Lubbock, TX, USA",
+    "jersey": "2"
+}
