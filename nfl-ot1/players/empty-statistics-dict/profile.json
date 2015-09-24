@@ -55,32 +55,7 @@
             "teams": [
                 {
                     "alias": "GB",
-                    "statistics": {
-                        "kickoffs": {
-                            "kickoffs": 13,
-                            "inside_20": 3,
-                            "out_of_bounds": 0,
-                            "yards": 822,
-                            "touchbacks": 5,
-                            "endzone": 5,
-                            "return_yards": 150
-                        },
-                        "games_played": 2,
-                        "field_goals": {
-                            "made": 7,
-                            "attempts": 7,
-                            "avg_yards": 34.713999999999999,
-                            "longest": 48,
-                            "yards": 243,
-                            "blocked": 0
-                        },
-                        "extra_points": {
-                            "attempts": 3,
-                            "made": 3,
-                            "blocked": 0
-                        },
-                        "games_started": 0
-                    },
+                    "statistics": {},
                     "name": "Packers",
                     "market": "Green Bay",
                     "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
@@ -95,56 +70,7 @@
             "teams": [
                 {
                     "alias": "GB",
-                    "statistics": {
-                        "kickoffs": {
-                            "kickoffs": 102,
-                            "inside_20": 14,
-                            "out_of_bounds": 2,
-                            "yards": 6288,
-                            "touchbacks": 41,
-                            "endzone": 36,
-                            "return_yards": 1380
-                        },
-                        "field_goals": {
-                            "made": 27,
-                            "attempts": 33,
-                            "avg_yards": 32.466999999999999,
-                            "longest": 55,
-                            "yards": 974,
-                            "blocked": 3
-                        },
-                        "extra_points": {
-                            "attempts": 53,
-                            "made": 53,
-                            "blocked": 2
-                        },
-                        "games_started": 0,
-                        "defense": {
-                            "misc_assists": 0,
-                            "sp_tackles": 2,
-                            "sp_fumble_recoveries": 0,
-                            "tloss": 0,
-                            "interceptions": 0,
-                            "sp_assists": 0,
-                            "fumble_recoveries": 0,
-                            "safeties": 0,
-                            "combined": 0,
-                            "sp_blocks": 0,
-                            "misc_forced_fumbles": 0,
-                            "sp_forced_fumbles": 0,
-                            "qb_hits": 0,
-                            "sack_yards": 0,
-                            "assists": 0,
-                            "tloss_yards": 0,
-                            "sacks": 0,
-                            "forced_fumbles": 0,
-                            "tackles": 0,
-                            "misc_tackles": 0,
-                            "misc_fumble_recoveries": 0,
-                            "passes_defended": 0
-                        },
-                        "games_played": 16
-                    },
+                    "statistics": {},
                     "name": "Packers",
                     "market": "Green Bay",
                     "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
@@ -159,32 +85,7 @@
             "teams": [
                 {
                     "alias": "GB",
-                    "statistics": {
-                        "kickoffs": {
-                            "kickoffs": 13,
-                            "inside_20": 3,
-                            "out_of_bounds": 0,
-                            "yards": 844,
-                            "touchbacks": 6,
-                            "endzone": 5,
-                            "return_yards": 142
-                        },
-                        "games_played": 2,
-                        "field_goals": {
-                            "made": 5,
-                            "attempts": 5,
-                            "avg_yards": 34.799999999999997,
-                            "longest": 54,
-                            "yards": 174,
-                            "blocked": 0
-                        },
-                        "extra_points": {
-                            "attempts": 5,
-                            "made": 5,
-                            "blocked": 0
-                        },
-                        "games_started": 0
-                    },
+                    "statistics": {},
                     "name": "Packers",
                     "market": "Green Bay",
                     "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
