@@ -1,0 +1,161 @@
+{
+  "name": "Ryan Grant",
+  "jersey": "14",
+  "last_name": "Grant",
+  "first_name": "Ryan",
+  "abbr_name": "R.Grant",
+  "preferred_name": "Ryan",
+  "birth_date": "1990-12-19",
+  "weight": 193.0,
+  "height": 72,
+  "id": "cc9df25a-bb22-4737-83df-ff01d3fd7695",
+  "position": "WR",
+  "birth_place": "Beaumont, TX, USA",
+  "high_school": "West Brook (TX)",
+  "college": "Tulane",
+  "college_conf": "Conference USA",
+  "rookie_year": 2014,
+  "status": "A01",
+  "references": [
+    {
+      "id": "41371",
+      "origin": "nflx"
+    },
+    {
+      "id": "GRA498062",
+      "origin": "elias"
+    },
+    {
+      "id": "00-0031068",
+      "origin": "gsis"
+    }
+  ],
+  "team": {
+    "name": "Redskins",
+    "market": "Washington",
+    "alias": "WAS",
+    "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+  },
+  "draft": {
+    "year": 2014,
+    "round": 5,
+    "number": 142,
+    "team": {
+      "name": "Redskins",
+      "market": "Washington",
+      "alias": "WAS",
+      "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+    }
+  },
+  "seasons": [
+    {
+      "id": "31e1c3b3-5a7f-4017-8522-6b852767a774",
+      "year": 2014,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+          "statistics": {
+            "games_played": 16,
+            "games_started": 2,
+            "receiving": {
+              "receptions": 7,
+              "targets": 15,
+              "yards": 68,
+              "avg_yards": 9.714,
+              "longest": 21,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 23,
+              "redzone_targets": 3,
+              "air_yards": 45
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 1,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "46aa2ca3-c2fc-455d-8256-1f7893a87113",
+      "year": 2015,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+          "statistics": {
+            "games_played": "0",
+            "games_started": 4,
+            "receiving": {
+              "receptions": 17,
+              "targets": 31,
+              "yards": 194,
+              "avg_yards": 11.412,
+              "longest": 35,
+              "touchdowns": 1,
+              "longest_touchdown": 3,
+              "yards_after_catch": 72,
+              "redzone_targets": 2,
+              "air_yards": 122
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 1,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2015-11-09 22:32:14 +0000 ended @ 2015-11-09 22:32:15 +0000"
+}
