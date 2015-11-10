@@ -1,0 +1,2049 @@
+{
+  "name": "Redskins",
+  "market": "Washington",
+  "alias": "WAS",
+  "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+  "franchise": {
+    "id": "d7376957-e63b-4bc9-b82b-d087fc0ec83a",
+    "name": "Redskins",
+    "alias": "WAS",
+    "references": [
+      {
+        "id": "28",
+        "origin": "gsis"
+      }
+    ]
+  },
+  "venue": {
+    "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+    "name": "FedExField",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "zip": "20785",
+    "address": "1600 FedEx Way",
+    "capacity": 83000,
+    "surface": "turf",
+    "roof_type": "outdoor"
+  },
+  "division": {
+    "id": "6dab3ca1-b9cb-403f-91dd-b2a3708ab060",
+    "name": "NFC East",
+    "alias": "NFC_EAST"
+  },
+  "conference": {
+    "id": "b1808e5f-d40b-47c0-8af8-5175c0fdcd26",
+    "name": "NFC",
+    "alias": "NFC"
+  },
+  "references": [
+    {
+      "id": "WAS",
+      "origin": "gsis"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "771b222a-cd41-4ffa-bb86-92932911629d",
+      "full_name": "Sean McVay",
+      "first_name": "Sean",
+      "last_name": "McVay",
+      "position": "Offensive Coordinator"
+    },
+    {
+      "id": "aaedc767-5147-4c67-a274-813b20c9f805",
+      "full_name": "Jay Gruden",
+      "first_name": "Jay",
+      "last_name": "Gruden",
+      "position": "Head Coach"
+    },
+    {
+      "id": "ef697e9a-e001-45b0-aece-2bb59dddc83a",
+      "full_name": "Joe Barry",
+      "first_name": "Joe",
+      "last_name": "Barry",
+      "position": "Defensive Coordinator"
+    }
+  ],
+  "players": [
+    {
+      "name": "Christopher Thompson",
+      "jersey": "25",
+      "last_name": "Thompson",
+      "first_name": "Christopher",
+      "abbr_name": "C.Thompson",
+      "preferred_name": "Chris",
+      "birth_date": "1990-10-20",
+      "weight": 193.0,
+      "height": 68,
+      "status": "A01",
+      "id": "0366fd06-19a3-4b69-8448-6bfbfad1250b",
+      "position": "LOL",
+      "birth_place": "Greenville, FL, USA",
+      "high_school": "Madison County (FL)",
+      "college": "Florida State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2013,
+      "draft": {
+        "year": 2013,
+        "round": 5,
+        "number": 154,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0030404",
+          "origin": "gsis"
+        },
+        {
+          "id": "40102",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Dustin Hopkins",
+      "jersey": "3",
+      "last_name": "Hopkins",
+      "first_name": "Dustin",
+      "abbr_name": "D.Hopkins",
+      "preferred_name": "Dustin",
+      "birth_date": "1990-10-01",
+      "weight": 193.0,
+      "height": 74,
+      "status": "A01",
+      "id": "058c99fc-470c-4579-a165-03e043335cc1",
+      "position": "K",
+      "birth_place": "Austin, TX, USA",
+      "high_school": "Clear Lake (TX)",
+      "college": "Florida State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2013,
+      "draft": {
+        "year": 2013,
+        "round": 6,
+        "number": 177,
+        "team": {
+          "name": "Bills",
+          "market": "Buffalo",
+          "alias": "BUF",
+          "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724"
+        }
+      },
+      "references": [
+        {
+          "id": "40125",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0030098",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Chris Culliver",
+      "jersey": "29",
+      "last_name": "Culliver",
+      "first_name": "Chris",
+      "abbr_name": "C.Culliver",
+      "preferred_name": "Chris",
+      "birth_date": "1988-08-17",
+      "weight": 199.0,
+      "height": 72,
+      "status": "A01",
+      "id": "0c68f083-c3a0-433f-931e-d8216dc3fcd4",
+      "position": "CB",
+      "birth_place": "Philadelphia, PA, USA",
+      "high_school": "Garner (NC)",
+      "college": "South Carolina",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2011,
+      "draft": {
+        "year": 2011,
+        "round": 3,
+        "number": 80,
+        "team": {
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9"
+        }
+      },
+      "references": [
+        {
+          "id": "37155",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0028018",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas Sundberg",
+      "jersey": "57",
+      "last_name": "Sundberg",
+      "first_name": "Nicholas",
+      "abbr_name": "N.Sundberg",
+      "preferred_name": "Nick",
+      "birth_date": "1987-07-29",
+      "weight": 264.0,
+      "height": 72,
+      "status": "A01",
+      "id": "155b36fd-7287-4cf5-a065-6adc74fa866a",
+      "position": "LS",
+      "birth_place": "Phoenix, AZ, USA",
+      "high_school": "North Canyon (AZ)",
+      "college": "California",
+      "college_conf": "Pacific Ten Conference",
+      "rookie_year": 2009,
+      "references": [
+        {
+          "id": "34933",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0026714",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Compton",
+      "jersey": "68",
+      "last_name": "Compton",
+      "first_name": "Thomas",
+      "abbr_name": "T.Compton",
+      "preferred_name": "Tom",
+      "birth_date": "1989-05-10",
+      "weight": 308.0,
+      "height": 77,
+      "status": "A01",
+      "id": "1c1f0577-f9c7-4406-b2ab-b9e42ddb1af3",
+      "position": "T",
+      "birth_place": "Rosemount, MN, USA",
+      "high_school": "Rosemount (MN)",
+      "college": "South Dakota",
+      "college_conf": "Great West Football Conference",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 6,
+        "number": 193,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0029144",
+          "origin": "gsis"
+        },
+        {
+          "id": "38723",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Trenton Robinson",
+      "jersey": "34",
+      "last_name": "Robinson",
+      "first_name": "Trenton",
+      "abbr_name": "T.Robinson",
+      "preferred_name": "Trenton",
+      "birth_date": "1990-02-16",
+      "weight": 195.0,
+      "height": 69,
+      "status": "A01",
+      "id": "215fd07e-7e6a-4060-a545-3fe5fb7add4f",
+      "position": "FS",
+      "birth_place": "Bay City, MI, USA",
+      "high_school": "Bay City Central (MI)",
+      "college": "Michigan State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 6,
+        "number": 180,
+        "team": {
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0029297",
+          "origin": "gsis"
+        },
+        {
+          "id": "38710",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Matt Jones",
+      "jersey": "31",
+      "last_name": "Jones",
+      "first_name": "Matt",
+      "abbr_name": "M.Jones",
+      "preferred_name": "Matt",
+      "birth_date": "1993-03-07",
+      "weight": 231.0,
+      "height": 74,
+      "status": "A01",
+      "id": "2641d36d-7c61-445f-980f-313671f2e8ce",
+      "position": "RB",
+      "birth_place": "Seffner, FL, USA",
+      "high_school": "Armwood",
+      "college": "Florida",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2015,
+      "draft": {
+        "year": 2015,
+        "round": 3,
+        "number": 95,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0031939",
+          "origin": "gsis"
+        },
+        {
+          "id": "42438",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Kyshoen Jarrett",
+      "jersey": "30",
+      "last_name": "Jarrett",
+      "first_name": "Kyshoen",
+      "abbr_name": "K.Jarrett",
+      "preferred_name": "Kyshoen",
+      "birth_date": "1993-05-04",
+      "weight": 200.0,
+      "height": 70,
+      "status": "A01",
+      "id": "27779031-2c71-4c9a-80ee-28b9cd06814c",
+      "position": "FS",
+      "birth_place": "Tannersville, PA, USA",
+      "high_school": "East Stroudsburg South",
+      "college": "Virginia Tech",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2015,
+      "draft": {
+        "year": 2015,
+        "round": 6,
+        "number": 181,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "42524",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0031952",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Daniel McCoy",
+      "jersey": "16",
+      "last_name": "McCoy",
+      "first_name": "Daniel",
+      "abbr_name": "C.McCoy",
+      "preferred_name": "Colt",
+      "birth_date": "1986-09-05",
+      "weight": 215.0,
+      "height": 73,
+      "status": "A01",
+      "id": "3699dfd9-d437-43f7-b674-adbb31e7e64b",
+      "position": "QB",
+      "birth_place": "Hobbs, NM, USA",
+      "high_school": "Jim Ned (TX)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2010,
+      "draft": {
+        "year": 2010,
+        "round": 3,
+        "number": 85,
+        "team": {
+          "name": "Browns",
+          "market": "Cleveland",
+          "alias": "CLE",
+          "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0027688",
+          "origin": "gsis"
+        },
+        {
+          "id": "35524",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Arie-Manuel Kouandjio",
+      "jersey": "74",
+      "last_name": "Kouandjio",
+      "first_name": "Arie-Manuel",
+      "abbr_name": "A.Kouandijo",
+      "preferred_name": "Arie",
+      "birth_date": "1992-04-23",
+      "weight": 310.0,
+      "height": 77,
+      "status": "A01",
+      "id": "3887491b-d2f3-43e2-bd27-01ba860a65f7",
+      "position": "G",
+      "birth_place": "Hyattsville, MD, USA",
+      "high_school": "DeMatha Catholic",
+      "college": "Alabama",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2015,
+      "draft": {
+        "year": 2015,
+        "round": 4,
+        "number": 112,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "42455",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0031942",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "DeSean Jackson",
+      "jersey": "11",
+      "last_name": "Jackson",
+      "first_name": "DeSean",
+      "abbr_name": "D.Jackson",
+      "preferred_name": "DeSean",
+      "birth_date": "1986-12-01",
+      "weight": 178.0,
+      "height": 70,
+      "status": "A01",
+      "id": "3e618eb6-41f2-4f20-ad70-2460f9366f43",
+      "position": "WR",
+      "birth_place": "Los Angeles, CA, USA",
+      "high_school": "Poly (CA)",
+      "college": "California",
+      "college_conf": "Pacific Ten Conference",
+      "rookie_year": 2008,
+      "draft": {
+        "year": 2008,
+        "round": 2,
+        "number": 49,
+        "team": {
+          "name": "Eagles",
+          "market": "Philadelphia",
+          "alias": "PHI",
+          "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0026189",
+          "origin": "gsis"
+        },
+        {
+          "id": "33130",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "William Compton",
+      "jersey": "51",
+      "last_name": "Compton",
+      "first_name": "William",
+      "abbr_name": "W.Compton",
+      "preferred_name": "Will",
+      "birth_date": "1989-09-19",
+      "weight": 230.0,
+      "height": 73,
+      "status": "A01",
+      "id": "401c4b1f-8302-433e-a84d-9d3101a30f4b",
+      "position": "ILB",
+      "high_school": "North County (MD)",
+      "college": "Nebraska",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2013,
+      "references": [
+        {
+          "id": "40326",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0029869",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Frank Kearse",
+      "jersey": "73",
+      "last_name": "Kearse",
+      "first_name": "Frank",
+      "abbr_name": "F.Kearse",
+      "preferred_name": "Frank",
+      "birth_date": "1988-10-28",
+      "weight": 310.0,
+      "height": 77,
+      "id": "519b3fe8-6054-48dd-8c34-2517ffcff90d",
+      "position": "DE",
+      "birth_place": "Savannah, GA, USA",
+      "high_school": "Savannah (GA)",
+      "college": "Alabama A&M",
+      "college_conf": "Southwestern Athletic Conference",
+      "rookie_year": 2011,
+      "draft": {
+        "year": 2011,
+        "round": 7,
+        "number": 231,
+        "team": {
+          "name": "Dolphins",
+          "market": "Miami",
+          "alias": "MIA",
+          "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0028169",
+          "origin": "gsis"
+        },
+        {
+          "id": "37306",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Tress Way",
+      "jersey": "5",
+      "last_name": "Way",
+      "first_name": "Tress",
+      "abbr_name": "T.Way",
+      "preferred_name": "Tress",
+      "birth_date": "1990-04-18",
+      "weight": 215.0,
+      "height": 73,
+      "status": "A01",
+      "id": "55e1ecbd-96c5-456e-833b-9cd3f046f3fc",
+      "position": "P",
+      "birth_place": "Tulsa, OK, USA",
+      "high_school": "Union (OK)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2013,
+      "references": [
+        {
+          "id": "40600",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0030140",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Baker",
+      "jersey": "92",
+      "last_name": "Baker",
+      "first_name": "Christopher",
+      "abbr_name": "C.Baker",
+      "preferred_name": "Chris",
+      "birth_date": "1987-10-08",
+      "weight": 325.0,
+      "height": 74,
+      "status": "A01",
+      "id": "5659e779-d0af-4107-aa75-d24dc3db90e3",
+      "position": "DE",
+      "birth_place": "Windsor, CT, USA",
+      "high_school": "Windsor (CT)",
+      "college": "Hampton",
+      "college_conf": "Mid-Eastern Athletic Conference",
+      "rookie_year": 2009,
+      "references": [
+        {
+          "id": "00-0026512",
+          "origin": "gsis"
+        },
+        {
+          "id": "34719",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Perry Riley",
+      "jersey": "56",
+      "last_name": "Riley",
+      "first_name": "Perry",
+      "abbr_name": "P.Riley",
+      "preferred_name": "Perry",
+      "birth_date": "1988-05-03",
+      "weight": 238.0,
+      "height": 72,
+      "status": "A01",
+      "id": "5726ab42-606e-4139-9f2a-d677a858dbdb",
+      "position": "ILB",
+      "birth_place": "Atlanta, GA, USA",
+      "high_school": "Stephenson (GA)",
+      "college": "Louisiana State",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2010,
+      "draft": {
+        "year": 2010,
+        "round": 4,
+        "number": 103,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "35542",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0027704",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "William Blackmon",
+      "jersey": "41",
+      "last_name": "Blackmon",
+      "first_name": "William",
+      "abbr_name": "W.Blackmon",
+      "preferred_name": "Will",
+      "birth_date": "1984-10-27",
+      "weight": 204.0,
+      "height": 72,
+      "status": "A01",
+      "id": "5bd91ec9-3d48-48c1-b36e-78462044acfc",
+      "position": "CB",
+      "birth_place": "Providence, RI, USA",
+      "high_school": "Bishop Hendricken (RI)",
+      "college": "Boston College",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2006,
+      "draft": {
+        "year": 2006,
+        "round": 4,
+        "number": 115,
+        "team": {
+          "name": "Packers",
+          "market": "Green Bay",
+          "alias": "GB",
+          "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932"
+        }
+      },
+      "references": [
+        {
+          "id": "30929",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0024330",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Spencer Long",
+      "jersey": "61",
+      "last_name": "Long",
+      "first_name": "Spencer",
+      "abbr_name": "S.Long",
+      "preferred_name": "Spencer",
+      "birth_date": "1990-11-08",
+      "weight": 311.0,
+      "height": 77,
+      "status": "A01",
+      "id": "5d03f256-0569-4908-a0bf-5f95325c8be3",
+      "position": "G",
+      "birth_place": "Elkhorn, NE, USA",
+      "high_school": "Elkhorn (NE)",
+      "college": "Nebraska",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2014,
+      "draft": {
+        "year": 2014,
+        "round": 3,
+        "number": 78,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0031047",
+          "origin": "gsis"
+        },
+        {
+          "id": "41307",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Trent Murphy",
+      "jersey": "93",
+      "last_name": "Murphy",
+      "first_name": "Trent",
+      "abbr_name": "T.Murphy",
+      "preferred_name": "Trent",
+      "birth_date": "1990-12-22",
+      "weight": 258.0,
+      "height": 77,
+      "status": "A01",
+      "id": "5d98bad5-1730-4095-825d-3ff8d10d1116",
+      "position": "OLB",
+      "birth_place": "Mesa, AZ, USA",
+      "high_school": "Brophy (AZ)",
+      "college": "Stanford",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2014,
+      "draft": {
+        "year": 2014,
+        "round": 2,
+        "number": 47,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0031300",
+          "origin": "gsis"
+        },
+        {
+          "id": "41276",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "DeAngelo Hall",
+      "jersey": "23",
+      "last_name": "Hall",
+      "first_name": "DeAngelo",
+      "abbr_name": "D.Hall",
+      "preferred_name": "DeAngelo",
+      "birth_date": "1983-11-19",
+      "weight": 198.0,
+      "height": 70,
+      "id": "5f7dbabc-4a86-45f5-9983-eea57e7ccb38",
+      "position": "CB",
+      "birth_place": "Rockville, MD, USA",
+      "high_school": "Deep Creek (VA)",
+      "college": "Virginia Tech",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2004,
+      "draft": {
+        "year": 2004,
+        "round": 1,
+        "number": 8,
+        "team": {
+          "name": "Falcons",
+          "market": "Atlanta",
+          "alias": "ATL",
+          "id": "e6aa13a4-0055-48a9-bc41-be28dc106929"
+        }
+      },
+      "references": [
+        {
+          "id": "28960",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0022923",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Deshazor Everett",
+      "jersey": "22",
+      "last_name": "Everett",
+      "first_name": "Deshazor",
+      "abbr_name": "D.Everett",
+      "preferred_name": "Deshazor",
+      "birth_date": "1992-02-22",
+      "weight": 193.0,
+      "height": 72,
+      "status": "A01",
+      "id": "6e91b25a-4bf4-4a53-a328-69d3e7ef86c1",
+      "position": "CB",
+      "birth_place": "DeRidder, LA, USA",
+      "high_school": "DeRidder HS",
+      "college": "Texas A&M",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2015,
+      "references": [
+        {
+          "id": "42875",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0031844",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Jason Hatcher",
+      "jersey": "97",
+      "last_name": "Hatcher",
+      "first_name": "Jason",
+      "abbr_name": "J.Hatcher",
+      "preferred_name": "Jason",
+      "birth_date": "1982-07-13",
+      "weight": 299.0,
+      "height": 78,
+      "status": "A01",
+      "id": "75f4e314-a25d-4833-b39e-02014853d7bb",
+      "position": "DE",
+      "birth_place": "Alexandria, LA, USA",
+      "high_school": "Jena (LA)",
+      "college": "Grambling",
+      "college_conf": "Southwestern Athletic Conference",
+      "rookie_year": 2006,
+      "draft": {
+        "year": 2006,
+        "round": 3,
+        "number": 92,
+        "team": {
+          "name": "Cowboys",
+          "market": "Dallas",
+          "alias": "DAL",
+          "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0024307",
+          "origin": "gsis"
+        },
+        {
+          "id": "30906",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Kory Lichtensteiger",
+      "jersey": "78",
+      "last_name": "Lichtensteiger",
+      "first_name": "Kory",
+      "abbr_name": "K.Lichtensteiger",
+      "preferred_name": "Kory",
+      "birth_date": "1985-03-22",
+      "weight": 296.0,
+      "height": 74,
+      "id": "7f7b2a5a-be4e-40d1-9cd0-9a7dd225a8c0",
+      "position": "C",
+      "birth_place": "Van Wert, OH, USA",
+      "high_school": "Crestview (OH)",
+      "college": "Bowling Green",
+      "college_conf": "Mid-American Conference",
+      "rookie_year": 2008,
+      "draft": {
+        "year": 2008,
+        "round": 4,
+        "number": 108,
+        "team": {
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0"
+        }
+      },
+      "references": [
+        {
+          "id": "33189",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0026248",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Jamison Crowder",
+      "jersey": "80",
+      "last_name": "Crowder",
+      "first_name": "Jamison",
+      "abbr_name": "J.Crowder",
+      "preferred_name": "Jamison",
+      "birth_date": "1993-06-17",
+      "weight": 185.0,
+      "height": 68,
+      "status": "A01",
+      "id": "8002dd5e-a75a-4d72-9a8c-0f4dbc80d459",
+      "position": "WR",
+      "birth_place": "Monroe, NC, USA",
+      "high_school": "Monroe",
+      "college": "Duke",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2015,
+      "draft": {
+        "year": 2015,
+        "round": 4,
+        "number": 105,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0031941",
+          "origin": "gsis"
+        },
+        {
+          "id": "42448",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Quinton Dunbar",
+      "jersey": "47",
+      "last_name": "Dunbar",
+      "first_name": "Quinton",
+      "abbr_name": "Q.Dunbar",
+      "preferred_name": "Quinton",
+      "birth_date": "1992-07-22",
+      "weight": 201.0,
+      "height": 74,
+      "status": "A01",
+      "id": "872bbe18-ea66-415c-b556-6d15bda05b0e",
+      "position": "CB",
+      "birth_place": "Miami, FL, USA",
+      "high_school": "Booker T. Washington",
+      "college": "Florida",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2015,
+      "references": [
+        {
+          "id": "00-0032007",
+          "origin": "gsis"
+        },
+        {
+          "id": "43008",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Kedric Golston",
+      "jersey": "64",
+      "last_name": "Golston",
+      "first_name": "Kedric",
+      "abbr_name": "K.Golston",
+      "preferred_name": "Kedric",
+      "birth_date": "1983-05-30",
+      "weight": 318.0,
+      "height": 76,
+      "status": "A01",
+      "id": "8d079fe0-46d4-41d8-878b-98141320bcfc",
+      "position": "NT",
+      "birth_place": "Tyrone, GA, USA",
+      "high_school": "Sandy Creek (GA)",
+      "college": "Georgia",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2006,
+      "draft": {
+        "year": 2006,
+        "round": 6,
+        "number": 196,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0024410",
+          "origin": "gsis"
+        },
+        {
+          "id": "31011",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Robert Griffin",
+      "jersey": "10",
+      "last_name": "Griffin",
+      "first_name": "Robert",
+      "abbr_name": "R.Griffin",
+      "preferred_name": "Robert",
+      "birth_date": "1990-02-12",
+      "weight": 222.0,
+      "height": 74,
+      "id": "8dfb370d-460c-4bfc-9d62-888687248783",
+      "position": "QB",
+      "birth_place": "Okinawa Prefecture,, JPN",
+      "high_school": "Copperas Cove (TX)",
+      "college": "Baylor",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 1,
+        "number": 2,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0029665",
+          "origin": "gsis"
+        },
+        {
+          "id": "38532",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Dashon Goldson",
+      "jersey": "38",
+      "last_name": "Goldson",
+      "first_name": "Dashon",
+      "abbr_name": "D.Goldson",
+      "preferred_name": "Dashon",
+      "birth_date": "1984-09-18",
+      "weight": 200.0,
+      "height": 74,
+      "status": "A01",
+      "id": "8fd45946-17e7-4e01-91df-bb866f268309",
+      "position": "FS",
+      "birth_place": "Carson, CA, USA",
+      "high_school": "Narbonne (CA)",
+      "college": "Washington",
+      "college_conf": "Pacific Ten Conference",
+      "rookie_year": 2007,
+      "draft": {
+        "year": 2007,
+        "round": 4,
+        "number": 126,
+        "team": {
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0025513",
+          "origin": "gsis"
+        },
+        {
+          "id": "32319",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Paea",
+      "jersey": "90",
+      "last_name": "Paea",
+      "first_name": "Stephen",
+      "abbr_name": "S.Paea",
+      "preferred_name": "Stephen",
+      "birth_date": "1988-05-11",
+      "weight": 300.0,
+      "height": 73,
+      "status": "A01",
+      "id": "92608d14-9444-4ee0-bf1a-a8905e5d4475",
+      "position": "DE",
+      "birth_place": "Auckland,, NZL",
+      "high_school": "Timpview (UT)",
+      "college": "Oregon State",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2011,
+      "draft": {
+        "year": 2011,
+        "round": 2,
+        "number": 53,
+        "team": {
+          "name": "Bears",
+          "market": "Chicago",
+          "alias": "CHI",
+          "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8"
+        }
+      },
+      "references": [
+        {
+          "id": "37128",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0027991",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Andre Roberts",
+      "jersey": "12",
+      "last_name": "Roberts",
+      "first_name": "Andre",
+      "abbr_name": "A.Roberts",
+      "preferred_name": "Andre",
+      "birth_date": "1988-01-09",
+      "weight": 187.0,
+      "height": 71,
+      "status": "A01",
+      "id": "9691f874-be36-4529-a7eb-dde22ee4a848",
+      "position": "WR",
+      "birth_place": "Columbia, SC, USA",
+      "high_school": "Spring Valley (SC)",
+      "college": "Citadel",
+      "college_conf": "Southern Conference",
+      "rookie_year": 2010,
+      "draft": {
+        "year": 2010,
+        "round": 3,
+        "number": 88,
+        "team": {
+          "name": "Cardinals",
+          "market": "Arizona",
+          "alias": "ARI",
+          "id": "de760528-1dc0-416a-a978-b510d20692ff"
+        }
+      },
+      "references": [
+        {
+          "id": "35527",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0027691",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Brandon Scherff",
+      "jersey": "75",
+      "last_name": "Scherff",
+      "first_name": "Brandon",
+      "abbr_name": "B.Scherff",
+      "preferred_name": "Brandon",
+      "birth_date": "1991-12-26",
+      "weight": 319.0,
+      "height": 77,
+      "status": "A01",
+      "id": "9aac7466-6718-4c40-9431-e51a3bfa0ab0",
+      "position": "G",
+      "birth_place": "Denison, IA, USA",
+      "high_school": "Denison",
+      "college": "Iowa",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2015,
+      "draft": {
+        "year": 2015,
+        "round": 1,
+        "number": 5,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "42348",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0032053",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Kerrigan",
+      "jersey": "91",
+      "last_name": "Kerrigan",
+      "first_name": "Patrick",
+      "abbr_name": "R.Kerrigan",
+      "preferred_name": "Ryan",
+      "birth_date": "1988-08-16",
+      "weight": 260.0,
+      "height": 76,
+      "status": "A01",
+      "id": "a25f92e6-6e67-4463-a32f-77976807b3d8",
+      "position": "OLB",
+      "birth_place": "Muncie, IN, USA",
+      "high_school": "Muncie Central (IN)",
+      "college": "Purdue",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2011,
+      "draft": {
+        "year": 2011,
+        "round": 1,
+        "number": 16,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0027954",
+          "origin": "gsis"
+        },
+        {
+          "id": "37089",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Rashad Ross",
+      "jersey": "19",
+      "last_name": "Ross",
+      "first_name": "Rashad",
+      "abbr_name": "R.Ross",
+      "preferred_name": "Rashad",
+      "birth_date": "1990-02-02",
+      "weight": 181.0,
+      "height": 72,
+      "id": "a55c773c-1ce6-4d0f-a800-768575d74121",
+      "position": "WR",
+      "college": "Arizona State",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2013,
+      "references": [
+        {
+          "id": "00-0030187",
+          "origin": "gsis"
+        },
+        {
+          "id": "40647",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Garcon",
+      "jersey": "88",
+      "last_name": "Garcon",
+      "first_name": "Pierre",
+      "abbr_name": "P.Garcon",
+      "preferred_name": "Pierre",
+      "birth_date": "1986-08-08",
+      "weight": 216.0,
+      "height": 72,
+      "status": "A01",
+      "id": "a824d9ff-12a4-4ed2-812d-404b0b4e52f9",
+      "position": "WR",
+      "birth_place": "Carmel, NY, USA",
+      "high_school": "Leonard (FL)",
+      "college": "Mount Union",
+      "college_conf": "Ohio Athletic Conference",
+      "rookie_year": 2008,
+      "draft": {
+        "year": 2008,
+        "round": 6,
+        "number": 205,
+        "team": {
+          "name": "Colts",
+          "market": "Indianapolis",
+          "alias": "IND",
+          "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9"
+        }
+      },
+      "references": [
+        {
+          "id": "33286",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0026345",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Robert McCoy",
+      "jersey": "85",
+      "last_name": "McCoy",
+      "first_name": "Robert",
+      "abbr_name": "A.McCoy",
+      "preferred_name": "Anthony",
+      "birth_date": "1987-12-28",
+      "weight": 259.0,
+      "height": 77,
+      "id": "ab0c4c63-df42-4825-8921-3fd1a842c3df",
+      "position": "TE",
+      "birth_place": "Fresno, CA, USA",
+      "high_school": "Bullard (CA)",
+      "college": "Southern California",
+      "college_conf": "Pacific Ten Conference",
+      "rookie_year": 2010,
+      "draft": {
+        "year": 2010,
+        "round": 6,
+        "number": 185,
+        "team": {
+          "name": "Seahawks",
+          "market": "Seattle",
+          "alias": "SEA",
+          "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8"
+        }
+      },
+      "references": [
+        {
+          "id": "35624",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0027783",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Keenan Robinson",
+      "jersey": "52",
+      "last_name": "Robinson",
+      "first_name": "Keenan",
+      "abbr_name": "K.Robinson",
+      "preferred_name": "Keenan",
+      "birth_date": "1989-07-07",
+      "weight": 238.0,
+      "height": 75,
+      "status": "A01",
+      "id": "af1648a4-2df1-40ef-b9fe-081d6961a416",
+      "position": "ILB",
+      "birth_place": "Omaha, NE, USA",
+      "high_school": "Plano East Senior (TX)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 4,
+        "number": 119,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0029545",
+          "origin": "gsis"
+        },
+        {
+          "id": "38649",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Trent Williams",
+      "jersey": "71",
+      "last_name": "Williams",
+      "first_name": "Trent",
+      "abbr_name": "T.Williams",
+      "preferred_name": "Trent",
+      "birth_date": "1988-07-19",
+      "weight": 337.0,
+      "height": 77,
+      "status": "A01",
+      "id": "b070601c-7985-4a1c-b71a-9f72bb5dbc59",
+      "position": "T",
+      "birth_place": "Longview, TX, USA",
+      "high_school": "Longview (TX)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2010,
+      "draft": {
+        "year": 2010,
+        "round": 1,
+        "number": 4,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0027857",
+          "origin": "gsis"
+        },
+        {
+          "id": "35443",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Bashaud Breeland",
+      "jersey": "26",
+      "last_name": "Breeland",
+      "first_name": "Bashaud",
+      "abbr_name": "B.Breeland",
+      "preferred_name": "Bashaud",
+      "birth_date": "1992-01-03",
+      "weight": 197.0,
+      "height": 71,
+      "status": "A01",
+      "id": "ba905b34-8412-4553-9055-3460368cc608",
+      "position": "CB",
+      "birth_place": "Allendale, SC, USA",
+      "high_school": "Allendale-Fairfax (SC)",
+      "college": "Clemson",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2014,
+      "draft": {
+        "year": 2014,
+        "round": 4,
+        "number": 102,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0031052",
+          "origin": "gsis"
+        },
+        {
+          "id": "41331",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Kirk Cousins",
+      "jersey": "8",
+      "last_name": "Cousins",
+      "first_name": "Kirk",
+      "abbr_name": "K.Cousins",
+      "preferred_name": "Kirk",
+      "birth_date": "1988-08-19",
+      "weight": 202.0,
+      "height": 75,
+      "status": "A01",
+      "id": "bbd0942c-6f77-4f83-a6d0-66ec6548019e",
+      "position": "QB",
+      "birth_place": "Holland, MI, USA",
+      "high_school": "Holland Christian (MI)",
+      "college": "Michigan State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 4,
+        "number": 102,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "38632",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0029604",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Alfred Morris",
+      "jersey": "46",
+      "last_name": "Morris",
+      "first_name": "Alfred",
+      "abbr_name": "A.Morris",
+      "preferred_name": "Alfred",
+      "birth_date": "1988-12-12",
+      "weight": 224.0,
+      "height": 70,
+      "status": "A01",
+      "id": "bd10efdf-d8e7-4e23-ab1a-1e42fb65131b",
+      "position": "RB",
+      "birth_place": "Pensacola, FL, USA",
+      "high_school": "Pine Forest(FL)",
+      "college": "Florida Atlantic",
+      "college_conf": "Sun Belt Conference",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 6,
+        "number": 173,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0029141",
+          "origin": "gsis"
+        },
+        {
+          "id": "38703",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Ricky Jean Francois",
+      "jersey": "99",
+      "last_name": "Jean Francois",
+      "first_name": "Ricky",
+      "abbr_name": "R.Jean-Francois",
+      "preferred_name": "Ricky",
+      "birth_date": "1986-11-23",
+      "weight": 297.0,
+      "height": 75,
+      "status": "A01",
+      "id": "c0e4ed02-82ec-4bde-a1b1-c035dde46402",
+      "position": "DE",
+      "birth_place": "Miami, FL, USA",
+      "high_school": "Miami Carol City (FL)",
+      "college": "Louisiana State",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2009,
+      "draft": {
+        "year": 2009,
+        "round": 7,
+        "number": 244,
+        "team": {
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0026502",
+          "origin": "gsis"
+        },
+        {
+          "id": "34695",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Jordan Reed",
+      "jersey": "86",
+      "last_name": "Reed",
+      "first_name": "Jordan",
+      "abbr_name": "J.Reed",
+      "preferred_name": "Jordan",
+      "birth_date": "1990-07-03",
+      "weight": 237.0,
+      "height": 75,
+      "status": "A01",
+      "id": "c3bf8d3e-3b2e-4f9e-ad74-c0a684035f17",
+      "position": "TE",
+      "birth_place": "New London, CT, USA",
+      "high_school": "New London (CT)",
+      "college": "Florida",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2013,
+      "draft": {
+        "year": 2013,
+        "round": 3,
+        "number": 85,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0030472",
+          "origin": "gsis"
+        },
+        {
+          "id": "40033",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Grant",
+      "jersey": "14",
+      "last_name": "Grant",
+      "first_name": "Ryan",
+      "abbr_name": "R.Grant",
+      "preferred_name": "Ryan",
+      "birth_date": "1990-12-19",
+      "weight": 193.0,
+      "height": 72,
+      "status": "A01",
+      "id": "cc9df25a-bb22-4737-83df-ff01d3fd7695",
+      "position": "WR",
+      "birth_place": "Beaumont, TX, USA",
+      "high_school": "West Brook (TX)",
+      "college": "Tulane",
+      "college_conf": "Conference USA",
+      "rookie_year": 2014,
+      "draft": {
+        "year": 2014,
+        "round": 5,
+        "number": 142,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "41371",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0031068",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Derek Carrier",
+      "jersey": "89",
+      "last_name": "Carrier",
+      "first_name": "Derek",
+      "abbr_name": "D.Carrier",
+      "preferred_name": "Derek",
+      "birth_date": "1990-07-25",
+      "weight": 241.0,
+      "height": 76,
+      "status": "A01",
+      "id": "d3fab07b-f02a-433d-9612-cb0a751f324d",
+      "position": "TE",
+      "birth_place": "Edgerton, WI, USA",
+      "high_school": "Edgerton (WI)",
+      "college": "Beloit",
+      "college_conf": "Midwest Conference",
+      "rookie_year": 2012,
+      "references": [
+        {
+          "id": "39109",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0029119",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Jeron Johnson",
+      "jersey": "20",
+      "last_name": "Johnson",
+      "first_name": "Jeron",
+      "abbr_name": "J.Johnson",
+      "preferred_name": "Jeron",
+      "birth_date": "1988-06-12",
+      "weight": 212.0,
+      "height": 70,
+      "status": "A01",
+      "id": "d58339ad-6ec1-41cd-98d7-964ac47d7225",
+      "position": "SS",
+      "birth_place": "Compton, CA, USA",
+      "high_school": "Dominguez (CA)",
+      "college": "Boise State",
+      "college_conf": "Mountain West Conference",
+      "rookie_year": 2011,
+      "references": [
+        {
+          "id": "37921",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0028441",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Attauyo Nsekhe",
+      "jersey": "79",
+      "last_name": "Nsekhe",
+      "first_name": "Attauyo",
+      "abbr_name": "T.Nsekhe",
+      "preferred_name": "Ty",
+      "birth_date": "1985-10-27",
+      "weight": 325.0,
+      "height": 80,
+      "status": "A01",
+      "id": "d723ebff-0e9d-42f8-93d2-fe0c02252de8",
+      "position": "T",
+      "birth_place": "Arlington, TX, USA",
+      "high_school": "James Bowie (TX)",
+      "college": "Texas State",
+      "college_conf": "Sun Belt Conference",
+      "rookie_year": 2012,
+      "references": [
+        {
+          "id": "36785",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0029709",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Houston Bates",
+      "jersey": "96",
+      "last_name": "Bates",
+      "first_name": "Houston",
+      "abbr_name": "H.Bates",
+      "preferred_name": "Houston",
+      "birth_date": "1990-12-20",
+      "weight": 250.0,
+      "height": 75,
+      "status": "A01",
+      "id": "db7af251-5251-4944-90cd-836cac9e2e40",
+      "position": "LB",
+      "birth_place": "Covington, LA, USA",
+      "high_school": "St. Paul's",
+      "college": "Louisiana Tech",
+      "college_conf": "Conference USA",
+      "rookie_year": 2015,
+      "references": [
+        {
+          "id": "43104",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0032181",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Morgan Moses",
+      "jersey": "76",
+      "last_name": "Moses",
+      "first_name": "Morgan",
+      "abbr_name": "M.Moses",
+      "preferred_name": "Morgan",
+      "birth_date": "1991-03-03",
+      "weight": 318.0,
+      "height": 78,
+      "status": "A01",
+      "id": "e15a26bb-db24-4e5a-b3a5-cc4d4eb4f0b6",
+      "position": "T",
+      "birth_place": "Richmond, VA, USA",
+      "high_school": "Meadowbrook (VA)",
+      "college": "Virginia",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2014,
+      "draft": {
+        "year": 2014,
+        "round": 3,
+        "number": 66,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "41295",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0031330",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Darrel Young",
+      "jersey": "36",
+      "last_name": "Young",
+      "first_name": "Darrel",
+      "abbr_name": "D.Young",
+      "preferred_name": "Darrel",
+      "birth_date": "1987-04-08",
+      "weight": 251.0,
+      "height": 71,
+      "status": "A01",
+      "id": "e174b76d-323a-41c5-be68-e766aa060d5c",
+      "position": "FB",
+      "birth_place": "Amityville, NY, USA",
+      "high_school": "Memorial (NY)",
+      "college": "Villanova",
+      "college_conf": "Colonial Athletic Association",
+      "rookie_year": 2009,
+      "references": [
+        {
+          "id": "35089",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0026852",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Josh LeRibeus",
+      "jersey": "67",
+      "last_name": "LeRibeus",
+      "first_name": "Josh",
+      "abbr_name": "J.LeRibeus",
+      "preferred_name": "Josh",
+      "birth_date": "1989-07-02",
+      "weight": 315.0,
+      "height": 74,
+      "status": "A01",
+      "id": "e461d721-5ca5-4896-8fe5-12e452a003b3",
+      "position": "C",
+      "birth_place": "Richardson, TX, USA",
+      "high_school": "Berkner (TX)",
+      "college": "Southern Methodist",
+      "college_conf": "Conference USA",
+      "rookie_year": 2012,
+      "draft": {
+        "year": 2012,
+        "round": 3,
+        "number": 71,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "38601",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0029666",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Terrance Knighton",
+      "jersey": "98",
+      "last_name": "Knighton",
+      "first_name": "Terrance",
+      "abbr_name": "T.Knighton",
+      "preferred_name": "Terrance",
+      "birth_date": "1986-07-04",
+      "weight": 354.0,
+      "height": 75,
+      "id": "e84b685e-6b52-4214-b264-123ce0672021",
+      "position": "NT",
+      "birth_place": "Hartford, CT, USA",
+      "high_school": "Windsor (CT)",
+      "college": "Temple",
+      "college_conf": "Mid-American Conference",
+      "rookie_year": 2009,
+      "draft": {
+        "year": 2009,
+        "round": 3,
+        "number": 72,
+        "team": {
+          "name": "Jaguars",
+          "market": "Jacksonville",
+          "alias": "JAC",
+          "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de"
+        }
+      },
+      "references": [
+        {
+          "id": "34523",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0027046",
+          "origin": "gsis"
+        }
+      ]
+    },
+    {
+      "name": "Preston Smith",
+      "jersey": "94",
+      "last_name": "Smith",
+      "first_name": "Preston",
+      "abbr_name": "P.Smith",
+      "preferred_name": "Preston",
+      "birth_date": "1992-11-17",
+      "weight": 271.0,
+      "height": 77,
+      "status": "A01",
+      "id": "ede260be-5ae6-4a06-887b-e4a130932705",
+      "position": "OLB",
+      "birth_place": "Stone Mountain, GA, USA",
+      "high_school": "Stephenson",
+      "college": "Mississippi State",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2015,
+      "draft": {
+        "year": 2015,
+        "round": 2,
+        "number": 38,
+        "team": {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+        }
+      },
+      "references": [
+        {
+          "id": "00-0031935",
+          "origin": "gsis"
+        },
+        {
+          "id": "42381",
+          "origin": "nflx"
+        }
+      ]
+    },
+    {
+      "name": "Mason Foster",
+      "jersey": "54",
+      "last_name": "Foster",
+      "first_name": "Mason",
+      "abbr_name": "M.Foster",
+      "preferred_name": "Mason",
+      "birth_date": "1989-03-01",
+      "weight": 237.0,
+      "height": 73,
+      "status": "A01",
+      "id": "f9354bca-514d-4f8d-97b2-5c6ed471edff",
+      "position": "MLB",
+      "birth_place": "Seaside, CA, USA",
+      "high_school": "Seaside (CA)",
+      "college": "Washington",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2011,
+      "draft": {
+        "year": 2011,
+        "round": 3,
+        "number": 84,
+        "team": {
+          "name": "Buccaneers",
+          "market": "Tampa Bay",
+          "alias": "TB",
+          "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69"
+        }
+      },
+      "references": [
+        {
+          "id": "37159",
+          "origin": "nflx"
+        },
+        {
+          "id": "00-0028022",
+          "origin": "gsis"
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2015-11-10 12:50:11 +0000 ended @ 2015-11-10 12:50:11 +0000"
+}
