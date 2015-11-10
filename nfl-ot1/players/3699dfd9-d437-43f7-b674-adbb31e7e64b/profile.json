@@ -1,0 +1,464 @@
+{
+  "name": "Daniel McCoy",
+  "jersey": "16",
+  "last_name": "McCoy",
+  "first_name": "Daniel",
+  "abbr_name": "C.McCoy",
+  "preferred_name": "Colt",
+  "birth_date": "1986-09-05",
+  "weight": 215.0,
+  "height": 73,
+  "id": "3699dfd9-d437-43f7-b674-adbb31e7e64b",
+  "position": "QB",
+  "birth_place": "Hobbs, NM, USA",
+  "high_school": "Jim Ned (TX)",
+  "college": "Texas",
+  "college_conf": "Big Twelve Conference",
+  "rookie_year": 2010,
+  "status": "A01",
+  "references": [
+    {
+      "id": "00-0027688",
+      "origin": "gsis"
+    },
+    {
+      "id": "35524",
+      "origin": "nflx"
+    },
+    {
+      "id": "MCC603149",
+      "origin": "elias"
+    }
+  ],
+  "team": {
+    "name": "Redskins",
+    "market": "Washington",
+    "alias": "WAS",
+    "id": "22052ff7-c065-42ee-bc8f-c4691c50e624"
+  },
+  "draft": {
+    "year": 2010,
+    "round": 3,
+    "number": 85,
+    "team": {
+      "name": "Browns",
+      "market": "Cleveland",
+      "alias": "CLE",
+      "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e"
+    }
+  },
+  "seasons": [
+    {
+      "id": "854cc6a0-3fdc-4239-b950-191672a5dbee",
+      "year": 2010,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Browns",
+          "market": "Cleveland",
+          "alias": "CLE",
+          "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+          "statistics": {
+            "games_played": 8,
+            "games_started": 8,
+            "rushing": {
+              "avg_yards": 4.857,
+              "attempts": 28,
+              "touchdowns": 1,
+              "yards": 136,
+              "longest": 18,
+              "longest_touchdown": 16,
+              "redzone_attempts": 3
+            },
+            "receiving": {
+              "receptions": 1,
+              "targets": 1,
+              "yards": 13,
+              "avg_yards": 13.0,
+              "longest": 13,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 7,
+              "redzone_targets": 0,
+              "air_yards": 6
+            },
+            "passing": {
+              "attempts": 222,
+              "completions": 135,
+              "cmp_pct": 60.811,
+              "yards": 1576,
+              "avg_yards": 7.099,
+              "sacks": 23,
+              "sack_yards": 132,
+              "touchdowns": 6,
+              "longest": 47,
+              "interceptions": 9,
+              "rating": 74.5,
+              "longest_touchdown": 46,
+              "air_yards": 885,
+              "redzone_attempts": 20,
+              "gross_yards": 1576
+            },
+            "fumbles": {
+              "fumbles": 1,
+              "lost_fumbles": 0,
+              "own_rec": 1,
+              "own_rec_yards": 0,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "01335d6d-e8f5-4b55-b803-7ee187ad2d00",
+      "year": 2011,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Browns",
+          "market": "Cleveland",
+          "alias": "CLE",
+          "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+          "statistics": {
+            "games_played": 13,
+            "games_started": 13,
+            "rushing": {
+              "avg_yards": 3.475,
+              "attempts": 61,
+              "touchdowns": 0,
+              "yards": 212,
+              "longest": 20,
+              "longest_touchdown": 0,
+              "redzone_attempts": 7
+            },
+            "receiving": {
+              "receptions": 1,
+              "targets": 1,
+              "yards": -5,
+              "avg_yards": -5.0,
+              "longest": -5,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": -5,
+              "redzone_targets": 0,
+              "air_yards": 0
+            },
+            "passing": {
+              "attempts": 463,
+              "completions": 265,
+              "cmp_pct": 57.235,
+              "yards": 2733,
+              "avg_yards": 5.903,
+              "sacks": 32,
+              "sack_yards": 173,
+              "touchdowns": 14,
+              "longest": 56,
+              "interceptions": 11,
+              "rating": 74.6,
+              "longest_touchdown": 45,
+              "air_yards": 1541,
+              "redzone_attempts": 39,
+              "gross_yards": 2733
+            },
+            "fumbles": {
+              "fumbles": 11,
+              "lost_fumbles": 2,
+              "own_rec": 5,
+              "own_rec_yards": -9,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 2,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 5
+            },
+            "conversions": {
+              "pass_attempts": 1,
+              "pass_successes": 0,
+              "rush_attempts": 0,
+              "rush_successes": 0,
+              "receive_attempts": 0,
+              "receive_successes": 0,
+              "defense_attempts": 0,
+              "defense_successes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "1adca71b-202f-44d5-9fab-abd45d813954",
+      "year": 2012,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Browns",
+          "market": "Cleveland",
+          "alias": "CLE",
+          "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+          "statistics": {
+            "games_played": 3,
+            "games_started": 0,
+            "rushing": {
+              "avg_yards": 3.75,
+              "attempts": 4,
+              "touchdowns": 0,
+              "yards": 15,
+              "longest": 15,
+              "longest_touchdown": 0,
+              "redzone_attempts": 0
+            },
+            "passing": {
+              "attempts": 17,
+              "completions": 9,
+              "cmp_pct": 52.941,
+              "yards": 79,
+              "avg_yards": 4.647,
+              "sacks": 4,
+              "sack_yards": 25,
+              "touchdowns": 1,
+              "longest": 21,
+              "interceptions": 0,
+              "rating": 85.2,
+              "longest_touchdown": 6,
+              "air_yards": 55,
+              "redzone_attempts": 0,
+              "gross_yards": 79
+            },
+            "conversions": {
+              "pass_attempts": 0,
+              "pass_successes": 0,
+              "rush_attempts": 1,
+              "rush_successes": 0,
+              "receive_attempts": 0,
+              "receive_successes": 0,
+              "defense_attempts": 0,
+              "defense_successes": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "8dec62a6-daf5-44da-b16a-7b41fc324c84",
+      "year": 2013,
+      "type": "PST",
+      "name": "PST",
+      "teams": [
+        {
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "02e4a213-66ab-456e-b895-ea8312276fd3",
+      "year": 2013,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "statistics": {
+            "games_played": 4,
+            "games_started": 0,
+            "rushing": {
+              "avg_yards": -1.0,
+              "attempts": 6,
+              "touchdowns": 0,
+              "yards": -6,
+              "longest": -1,
+              "longest_touchdown": 0,
+              "redzone_attempts": 3
+            },
+            "passing": {
+              "attempts": 1,
+              "completions": 1,
+              "cmp_pct": 100.0,
+              "yards": 13,
+              "avg_yards": 13.0,
+              "sacks": 0,
+              "sack_yards": 0,
+              "touchdowns": 0,
+              "longest": 13,
+              "interceptions": 0,
+              "rating": 118.8,
+              "longest_touchdown": 0,
+              "air_yards": 0,
+              "redzone_attempts": 0,
+              "gross_yards": 13
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "31e1c3b3-5a7f-4017-8522-6b852767a774",
+      "year": 2014,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+          "statistics": {
+            "games_played": 5,
+            "games_started": 4,
+            "rushing": {
+              "avg_yards": 4.125,
+              "attempts": 16,
+              "touchdowns": 1,
+              "yards": 66,
+              "longest": 20,
+              "longest_touchdown": 7,
+              "redzone_attempts": 3
+            },
+            "passing": {
+              "attempts": 128,
+              "completions": 91,
+              "cmp_pct": 71.094,
+              "yards": 1057,
+              "avg_yards": 8.258,
+              "sacks": 17,
+              "sack_yards": 117,
+              "touchdowns": 4,
+              "longest": 70,
+              "interceptions": 3,
+              "rating": 96.4,
+              "longest_touchdown": 70,
+              "air_yards": 545,
+              "redzone_attempts": 11,
+              "gross_yards": 1057
+            },
+            "fumbles": {
+              "fumbles": 6,
+              "lost_fumbles": 1,
+              "own_rec": 2,
+              "own_rec_yards": -1,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "46aa2ca3-c2fc-455d-8256-1f7893a87113",
+      "year": 2015,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Redskins",
+          "market": "Washington",
+          "alias": "WAS",
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2015-11-09 22:32:14 +0000 ended @ 2015-11-09 22:32:14 +0000"
+}
