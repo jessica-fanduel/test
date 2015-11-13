@@ -1,0 +1,253 @@
+{
+  "name": "Zachary Stacy",
+  "jersey": "30",
+  "last_name": "Stacy",
+  "first_name": "Zachary",
+  "abbr_name": "Z.Stacy",
+  "preferred_name": "Stacy",
+  "birth_date": "1991-04-09",
+  "weight": 224.0,
+  "height": 69,
+  "id": "0f034359-b69c-4c34-a648-de78e394ddab",
+  "position": "RB",
+  "birth_place": "Centreville, AL, USA",
+  "high_school": "Bibb County (AL)",
+  "college": "Vanderbilt",
+  "college_conf": "Southeastern Conference",
+  "rookie_year": 2013,
+  "status": "A01",
+  "references": [
+    {
+      "id": "00-0030536",
+      "origin": "gsis"
+    },
+    {
+      "id": "STA100025",
+      "origin": "elias"
+    },
+    {
+      "id": "40108",
+      "origin": "nflx"
+    }
+  ],
+  "team": {
+    "name": "Jets",
+    "market": "New York",
+    "alias": "NYJ",
+    "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3"
+  },
+  "draft": {
+    "year": 2013,
+    "round": 5,
+    "number": 160,
+    "team": {
+      "name": "Rams",
+      "market": "St. Louis",
+      "alias": "STL",
+      "id": "39f349de-6463-4803-ad70-f1e0f144f5ed"
+    }
+  },
+  "seasons": [
+    {
+      "id": "02e4a213-66ab-456e-b895-ea8312276fd3",
+      "year": 2013,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Rams",
+          "market": "St. Louis",
+          "alias": "STL",
+          "id": "39f349de-6463-4803-ad70-f1e0f144f5ed",
+          "statistics": {
+            "games_played": 14,
+            "games_started": 12,
+            "rushing": {
+              "avg_yards": 3.892,
+              "attempts": 250,
+              "touchdowns": 7,
+              "yards": 973,
+              "longest": 40,
+              "longest_touchdown": 40,
+              "redzone_attempts": 39
+            },
+            "receiving": {
+              "receptions": 26,
+              "targets": 35,
+              "yards": 141,
+              "avg_yards": 5.423,
+              "longest": 25,
+              "touchdowns": 1,
+              "longest_touchdown": 4,
+              "yards_after_catch": 149,
+              "redzone_targets": 4,
+              "air_yards": -8
+            },
+            "fumbles": {
+              "fumbles": 1,
+              "lost_fumbles": 1,
+              "own_rec": 1,
+              "own_rec_yards": 1,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "31e1c3b3-5a7f-4017-8522-6b852767a774",
+      "year": 2014,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Rams",
+          "market": "St. Louis",
+          "alias": "STL",
+          "id": "39f349de-6463-4803-ad70-f1e0f144f5ed",
+          "statistics": {
+            "games_played": 13,
+            "games_started": 5,
+            "rushing": {
+              "avg_yards": 3.855,
+              "attempts": 76,
+              "touchdowns": 1,
+              "yards": 293,
+              "longest": 16,
+              "longest_touchdown": 2,
+              "redzone_attempts": 13
+            },
+            "receiving": {
+              "receptions": 18,
+              "targets": 23,
+              "yards": 152,
+              "avg_yards": 8.444,
+              "longest": 17,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 157,
+              "redzone_targets": 2,
+              "air_yards": -5
+            },
+            "fumbles": {
+              "fumbles": 2,
+              "lost_fumbles": 2,
+              "own_rec": 0,
+              "own_rec_yards": 0,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "46aa2ca3-c2fc-455d-8256-1f7893a87113",
+      "year": 2015,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "name": "Jets",
+          "market": "New York",
+          "alias": "NYJ",
+          "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+          "statistics": {
+            "games_played": 8,
+            "games_started": 0,
+            "rushing": {
+              "avg_yards": 2.871,
+              "attempts": 31,
+              "touchdowns": 1,
+              "yards": 89,
+              "longest": 18,
+              "longest_touchdown": 2,
+              "redzone_attempts": 1
+            },
+            "receiving": {
+              "receptions": 9,
+              "targets": 12,
+              "yards": 65,
+              "avg_yards": 7.222,
+              "longest": 16,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 80,
+              "redzone_targets": 0,
+              "air_yards": -15
+            },
+            "kick_returns": {
+              "returns": 10,
+              "yards": 204,
+              "avg_yards": 20.4,
+              "touchdowns": 0,
+              "longest": 31,
+              "faircatches": 0,
+              "longest_touchdown": 0
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 1,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2015-11-13 17:26:09 +0000 ended @ 2015-11-13 17:26:10 +0000"
+}
